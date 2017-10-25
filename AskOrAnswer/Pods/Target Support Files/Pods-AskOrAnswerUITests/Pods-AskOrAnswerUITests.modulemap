@@ -1,0 +1,6 @@
+framework module Pods_AskOrAnswerUITests {
+  umbrella header "Pods-AskOrAnswerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
